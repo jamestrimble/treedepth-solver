@@ -2,6 +2,8 @@
 
 ## To compile
 
+Compile [Nauty](http://pallini.di.uniroma1.it/) and copy `nauty.a` and `nauty.h` to this directory.
+
 `make`
 
 ## To run
