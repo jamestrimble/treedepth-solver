@@ -1,10 +1,10 @@
-#Treedepth Solver
+# Treedepth Solver
 
-##To compile
+## To compile
 
 `make`
 
-##To run
+## To run
 
 `./solve < instance.gr`
 
